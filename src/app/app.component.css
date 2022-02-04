@@ -19,6 +19,11 @@ a {
   top: 120px;
   right: 20px;
 }
+.service_div
+{
+  background-color: gray;
+  min-height: 40px;
+}
 
 button {
   font-size: 14px;
